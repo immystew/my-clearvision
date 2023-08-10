@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://static.stereogum.com/uploads/2023/07/1000x1000bb-1690518223.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://cdn.discordapp.com/attachments/823361208513724457/1139257786392383488/https___images.genius.com_6434906c5e0ce5447c837b9d7c50480e.1000x1000x1.png); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
