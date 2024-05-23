@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsecure.espncdn.com%2Fcombiner%2Fi%3Fimg%3D%2Fmedia%2Fmotion%2F2018%2F1112%2Fdm_181112_lebron_and_dwade_time_in_miami%2Fdm_181112_lebron_and_dwade_time_in_miami.jpg&f=1&nofb=1&ipt=fabe80283b0799c2c99a8e56140904d0f6022d9aec23978baae666b4f32adf03&ipo=images); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://www.usatoday.com/gcdn/-mm-/dfff082d1e4931b30569ae37195b6862a6a8ef8a/c=0-361-2915-2008/local/-/media/2018/05/22/USATODAY/USATODAY/636625868623447717-AP-APTOPIX-Heat-Bucks-Basketball-39255807.JPG?width=660&height=373&fit=crop&format=pjpg&auto=webp); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
